@@ -1,0 +1,60 @@
+body{
+  
+    
+}
+h1{
+  
+    color: slateblue;
+   font-size: 75px;
+}
+p{
+    line-height: 1.5;
+}
+.text01{
+    background-color: aquamarine;
+    font-family: cursive;
+    width: 60%;
+    text-align: left;
+    padding: 20px 50PX 50PX 50px;
+    margin: 50px 0px 50px 0px;
+    border-radius: 50px;
+}
+.pic1
+{
+background-image: url(../raketa2.jpg);
+
+height: 1000px;
+background-size: cover;
+padding: 100px;
+background-position: bottom;
+border-radius: 50px;
+max-width: 100%;
+}
+.text02{
+    background-color: sandybrown;
+    font-family: fantasy;
+    width: 90%;
+    text-align: right;
+    padding: 60px 20PX 20PX 20px;
+    margin: 20px 0px 20px 0px;
+    border-radius: 100px;
+}
+.pic2{
+    background-image: url(../raketa.jpg);
+width: 50%;
+height: 2000px;
+background-size: contain;
+
+background-position: center;
+border-radius: 100px;
+}
+.textpic01{
+    color: springgreen;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+}
+.lil{
+    color: black;
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
